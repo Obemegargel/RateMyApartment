@@ -16,9 +16,9 @@ The first page has a survey to be filled out. The second page is where I hope to
 
 # Development Environment
 
--Visual Studio Code 2023
--html
--css
+*Visual Studio Code 2023
+*html
+*css
 
 # Useful Websites
 
